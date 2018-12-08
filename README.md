@@ -16,39 +16,39 @@ Build the application and run it on your phone. You can tap the "Start Game" to 
 ## Program directory structure
 ### Controllers
 
-storing the application controllers
+  storing the application controllers
 
 ### Fonts
 
-storing the application fonts
+  storing the application fonts
 
 ### Helper
 
-storing the application helper class
+  storing the application helper class
 
 ### Views
 
-storing the application subviews  
+  storing the application subviews  
 
 ### Nodes
 
-storing the application AR nodes
+  storing the application AR nodes
 
 ### AppDelegate.swift
 
-application delegate file
+  application delegate file
 
 ### Assets.xcassets
 
-storing appcation assets
+  storing appcation assets
 
 ### Main.storyboard
 
-application storyboard
+  application storyboard
 
 ### art.scnassets
 
-application animation
+  application animation
 
 ## Authors
 * Min, Liu (3035561522)
