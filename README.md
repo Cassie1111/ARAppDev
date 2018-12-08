@@ -51,8 +51,8 @@ application storyboard
 application animation
 
 ## Authors
-Min, Liu (3035561522)
-Shui Mon Sum (3035011333)
+* Min, Liu (3035561522)
+* Shui Mon Sum (3035011333)
 
 
 
